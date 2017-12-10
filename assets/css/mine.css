@@ -1,0 +1,88 @@
+@CHARSET "UTF-8";
+.myButton{
+    width: 30px;
+    height: 30px;
+    background: silver;
+}
+.myButton0{
+    width: 30px;
+    height: 30px;
+    color:gray;
+    background:gray;
+}
+.myButton1{
+    background: gray;
+    color:blue;
+    font-size:10px;
+    width: 30px;
+    height: 30px;
+    font-weight: 800;
+}
+.myButton2{
+    background: gray;
+    font-size:10px;
+    color:limegreen;
+    width: 30px;
+    height: 30px;
+    font-weight: 800;
+}
+.myButton3{
+    background: gray;
+    color:yellow;
+    width: 30px;
+    height: 30px;
+    font-weight: 800;
+}
+.myButton4{
+    background: gray;
+    color: aqua;
+    width: 30px;
+    height: 30px;
+    font-weight: 800;
+}
+.myButton5{
+    background: gray;
+    color: fuchsia;
+    width: 30px;
+    height: 30px;
+    font-weight: 800;
+}
+.myButton6{
+    background: gray;
+    color:lime;
+    width: 30px;
+    height: 30px;
+    font-weight: 800;
+}
+.myButton7{
+    background: gray;
+    color: teal;
+    width: 30px;
+    height: 30px;
+    font-weight: 800;
+}
+
+.myButton8{
+    background: gray;
+    color: navy;
+    width: 30px;
+    height: 30px;
+    font-weight: 800;
+}
+
+.myButton_{
+    background: gray;
+    color: red;
+    width: 30px;
+    height: 30px;
+    font-weight: 800;
+}
+
+body{
+    background-color: #f2f2f2;
+}
+
+#mainTab{
+    margin: 10px;
+
+}
